@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-12-19 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I've just been notifified that I won a GEM fellowship being sponsored by Adobe!!!
